@@ -22,7 +22,7 @@ EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="a
     <div class="bg bg-light text-dark">
         <div class="container min-vh-100 mt-5 d-flex align-items-center justify-content-center">
             <div class="card text-white bg-dark ma-5 shadow " style="min-width:
-25rem;">
+                    25rem;">
                 <div class="card-header fw-bold">Register</div>
                 <div class="card-body">
                     <form action="../process/registerProcess.php" method="post">
